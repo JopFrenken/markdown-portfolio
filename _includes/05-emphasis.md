@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+#h2 Programming languages:
+- **Html & css**
+- **PHP**
+- **c#**
+- **Javascript**
+- _little_ bit of **Java**
